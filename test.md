@@ -10,5 +10,5 @@
  cd /share/dennislab/users
  cd etroberts
  ```
- side note: mkdir to make a new directory
+ side note: mkdir to make a new directory, exit to leave
  

@@ -29,7 +29,8 @@
  screen -ls # which screen you have open
  screen -r #return to screen if you have exited it
  ```
- When in a screen, control a then d (no control) to exit screen ("detach")  
+ When in a screen, control a then d (no control) to exit screen but not close screen fully ("detach") 
+ If you're done with a screen type exit to get rid of it  
  If you want to look at gz files you have to use zless (just like normal less but unzips)  
  
  

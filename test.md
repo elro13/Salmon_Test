@@ -33,4 +33,10 @@
  If you're done with a screen type exit to get rid of it  
  If you want to look at gz files you have to use zless (just like normal less but unzips)  
  
+ To call files or directories with same components in name use * (wild card) which then signify the different parts. ex:
+ ```
+ *.trimmed.fq.gz
+ SRR9495*
+ ```
+ 
  

@@ -46,6 +46,11 @@
  *.trimmed.fq.gz
  SRR9495*
  ```
+ If you want to use R
+ ```
+ module load R/3.6.1 # to get to the right version
+ ```
+ 
  #### For loops in bash
  
  ```

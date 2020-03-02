@@ -38,5 +38,14 @@
  *.trimmed.fq.gz
  SRR9495*
  ```
+ #### For loops in bash
  
+ ```
+ for blah in blah
+ do
+ whatever it is you want to do
+ done
+ ```
+ 
+
  
